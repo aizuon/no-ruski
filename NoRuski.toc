@@ -1,0 +1,8 @@
+## Interface: 120005
+## Title: NoRuski
+## Notes: Auto-declines pending LFG group applications from Cyrillic-named players (when you are the listing host).
+## Author: aizuon
+## Version: 1.0.0
+## SavedVariables: NoRuskiDB
+
+NoRuski.lua

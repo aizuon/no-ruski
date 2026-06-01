@@ -1,0 +1,7 @@
+# Build output
+dist/
+*.zip
+
+# Secrets — never commit your CurseForge API token
+*.token
+.env
